@@ -1,0 +1,5722 @@
+[
+  {
+    "Initial Year": 2022,
+    "Rank": 1,
+    "Player": "Casemiro",
+    "Club": "Manchester United",
+    "Nationality": "Brazil",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Tyler Adams",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Shandon Baptiste",
+    "Club": "Brentford",
+    "Nationality": "Grenada",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Nélson Semedo",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Portugal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "João Cancelo",
+    "Club": "-",
+    "Nationality": "Portugal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Nathaniel Chalobah",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Nathan Collins",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Diego Costa",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Kiernan Dewsbury-Hall",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Cheick Doucouré",
+    "Club": "Crystal Palace",
+    "Nationality": "Mali",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Abdoulaye Doucouré",
+    "Club": "Everton",
+    "Nationality": "Mali",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Wout Faes",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "João Félix",
+    "Club": "-",
+    "Nationality": "Portugal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Junior Firpo",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Conor Gallagher",
+    "Club": "Chelsea",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Mason Holgate",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Kalidou Koulibaly",
+    "Club": "-",
+    "Nationality": "Senegal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Emerson Royal",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Mario Lemina",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Gabon",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Tyrick Mitchell",
+    "Club": "Crystal Palace",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Matheus Nunes",
+    "Club": "-",
+    "Nationality": "Portugal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Darwin Núñez",
+    "Club": "Liverpool",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Jonny Otto",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Nick Pope",
+    "Club": "Newcastle United",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Lucas Moura",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Cristian Romero",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Luis Sinisterra",
+    "Club": "-",
+    "Nationality": "Colombia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 2,
+    "Player": "James Tomkins",
+    "Club": "Crystal Palace",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 30,
+    "Player": "Gabriel Magalhães",
+    "Club": "Arsenal",
+    "Nationality": "Brazil",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 30,
+    "Player": "Kieran Trippier",
+    "Club": "Newcastle United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 30,
+    "Player": "Hakim Ziyech",
+    "Club": "-",
+    "Nationality": "Morocco",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 1,
+    "Player": "Raúl Jiménez",
+    "Club": "-",
+    "Nationality": "Mexico",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 1,
+    "Player": "Ezri Konsa",
+    "Club": "Aston Villa",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Michail Antonio",
+    "Club": "West Ham United",
+    "Nationality": "Jamaica",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Luke Ayling",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Shandon Baptiste",
+    "Club": "Brentford",
+    "Nationality": "Grenada",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Jarrad Branthwaite",
+    "Club": "Everton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Sergi Canós",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Ciaran Clark",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Nathan Collins",
+    "Club": "Burnley",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Vladimír Coufal",
+    "Club": "West Ham United",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Josh Dasilva",
+    "Club": "Brentford",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Craig Dawson",
+    "Club": "West Ham United",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Emmanuel Dennis",
+    "Club": "-",
+    "Nationality": "Nigeria",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Gabriel Magalhães",
+    "Club": "Arsenal",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Lewis Dunk",
+    "Club": "Brighton & Hove Albion",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Ben Gibson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Rob Holding",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Mason Holgate",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Daniel James",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Reece James",
+    "Club": "Chelsea",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Hassane Kamara",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Michael Keane",
+    "Club": "Everton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Jonjoe Kenny",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Juraj Kucka",
+    "Club": "-",
+    "Nationality": "Slovakia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Aymeric Laporte",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Matthew Lowton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Harry Maguire",
+    "Club": "Manchester United",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Allan",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Gabriel Martinelli",
+    "Club": "Arsenal",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Ayoze Pérez",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Paul Pogba",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Andy Robertson",
+    "Club": "Liverpool",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Salomón Rondón",
+    "Club": "-",
+    "Nationality": "Venezuela",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Mohammed Salisu",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Robert Sánchez",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Jonjo Shelvey",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Pascal Struijk",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Japhet Tanganga",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "James Ward-Prowse",
+    "Club": "Southampton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Granit Xhaka",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Toti",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Portugal",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Toti",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Portugal",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Toti",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Portugal",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Toti",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Portugal",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Toti",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Portugal",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Toti",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Portugal",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 42,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Lewis Dunk",
+    "Club": "Brighton & Hove Albion",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Semi Ajayi",
+    "Club": "-",
+    "Nationality": "Nigeria",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Joachim Andersen",
+    "Club": "Fulham",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "César Azpilicueta",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Fabián Balbuena",
+    "Club": "-",
+    "Nationality": "Paraguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Jan Bednarek",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Christian Benteke",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Yves Bissouma",
+    "Club": "Brighton & Hove Albion",
+    "Nationality": "Mali",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Matty Cash",
+    "Club": "Aston Villa",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "João Cancelo",
+    "Club": "-",
+    "Nationality": "Portugal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Andreas Christensen",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Liam Cooper",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Matheus Pereira",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Craig Dawson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Richarlison",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Lucas Digne",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Matt Doherty",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Gabriel Magalhães",
+    "Club": "Arsenal",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "John Egan",
+    "Club": "Sheffield United",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Thiago Silva",
+    "Club": "Chelsea",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ryan Fraser",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Kieran Gibbs",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Jeff Hendrick",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Phil Jagielka",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Alexandre Jankewitz",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Aboubakar Kamara",
+    "Club": "-",
+    "Nationality": "Mauritania",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Érik Lamela",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Tariq Lamptey",
+    "Club": "Brighton & Hove Albion",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Bernd Leno",
+    "Club": "-",
+    "Nationality": "Germany",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Jake Livermore",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "John Lundstram",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Anthony Martial",
+    "Club": "Manchester United",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Neal Maupay",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Luka Milivojevic",
+    "Club": "-",
+    "Nationality": "Serbia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Tyrone Mings",
+    "Club": "Aston Villa",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "David Luiz",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Nicolas Pépé",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Antonee Robinson",
+    "Club": "Fulham",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "João Moutinho",
+    "Club": "-",
+    "Nationality": "Portugal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Fabian Schär",
+    "Club": "Newcastle United",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Tomás Soucek",
+    "Club": "West Ham United",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "John Stones",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Jannik Vestergaard",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ollie Watkins",
+    "Club": "Aston Villa",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ben White",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Granit Xhaka",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Tomás Soucek",
+    "Club": "West Ham United",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "John Stones",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Jannik Vestergaard",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ollie Watkins",
+    "Club": "Aston Villa",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ben White",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Granit Xhaka",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Tomás Soucek",
+    "Club": "West Ham United",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "John Stones",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Jannik Vestergaard",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ollie Watkins",
+    "Club": "Aston Villa",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ben White",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Granit Xhaka",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Tomás Soucek",
+    "Club": "West Ham United",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "John Stones",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Jannik Vestergaard",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ollie Watkins",
+    "Club": "Aston Villa",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ben White",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Granit Xhaka",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Tomás Soucek",
+    "Club": "West Ham United",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "John Stones",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Jannik Vestergaard",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ollie Watkins",
+    "Club": "Aston Villa",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ben White",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Granit Xhaka",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Douglas Luiz",
+    "Club": "Aston Villa",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Tomás Soucek",
+    "Club": "West Ham United",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "John Stones",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Jannik Vestergaard",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ollie Watkins",
+    "Club": "Aston Villa",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Ben White",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 2,
+    "Player": "Granit Xhaka",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Erik Pieters",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Kyle Walker-Peters",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Erik Pieters",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Kyle Walker-Peters",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Erik Pieters",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Kyle Walker-Peters",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Erik Pieters",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Kyle Walker-Peters",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Erik Pieters",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Kyle Walker-Peters",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Erik Pieters",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 48,
+    "Player": "Kyle Walker-Peters",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 1,
+    "Player": "Christian Kabasele",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 1,
+    "Player": "David Luiz",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 1,
+    "Player": "Fernandinho",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Florin Andone",
+    "Club": "-",
+    "Nationality": "Romania",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Pierre-Emerick Aubameyang",
+    "Club": "-",
+    "Nationality": "Gabon",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Sèrge Aurier",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Alisson Becker",
+    "Club": "Liverpool",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Christian Benteke",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Ryan Bertrand",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Willy-Arnaud Boly",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Emiliano Buendía",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Hamza Choudhury",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Séamus Coleman",
+    "Club": "Everton",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Steve Cook",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Kevin Danso",
+    "Club": "-",
+    "Nationality": "Austria",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Fabian Delph",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Moussa Djenepo",
+    "Club": "-",
+    "Nationality": "Mali",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Josip Drmic",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "John Egan",
+    "Club": "Sheffield United",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Jonny Evans",
+    "Club": "-",
+    "Nationality": "Northern Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Simon Francis",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Ben Godfrey",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Trézéguet",
+    "Club": "-",
+    "Nationality": "Egypt",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Isaac Hayden",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Valentino Lazaro",
+    "Club": "-",
+    "Nationality": "Austria",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Jefferson Lerma",
+    "Club": "-",
+    "Nationality": "Colombia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Sean Longstaff",
+    "Club": "Newcastle United",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Ainsley Maitland-Niles",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Adrian Mariappa",
+    "Club": "-",
+    "Nationality": "Jamaica",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Arthur Masuaku",
+    "Club": "-",
+    "Nationality": "DR Congo",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Aaron Mooy",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Eddie Nketiah",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Romain Saïss",
+    "Club": "-",
+    "Nationality": "Morocco",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Mamadou Sakho",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Ederson",
+    "Club": "Manchester City",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Morgan Schneiderlin",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Billy Sharp",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Son Heung-Min",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "South Korea",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Çaglar Söyüncü",
+    "Club": "-",
+    "Nationality": "Turkey",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Jack Stephens",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Oleksandr Zinchenko",
+    "Club": "-",
+    "Nationality": "Ukraine",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Oleksandr Zinchenko",
+    "Club": "-",
+    "Nationality": "Ukraine",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Oleksandr Zinchenko",
+    "Club": "-",
+    "Nationality": "Ukraine",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Oleksandr Zinchenko",
+    "Club": "-",
+    "Nationality": "Ukraine",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Oleksandr Zinchenko",
+    "Club": "-",
+    "Nationality": "Ukraine",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Oleksandr Zinchenko",
+    "Club": "-",
+    "Nationality": "Ukraine",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Chris Basham",
+    "Club": "Sheffield United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Jan Bednarek",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Aaron Cresswell",
+    "Club": "West Ham United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Joel Ward",
+    "Club": "Crystal Palace",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Chris Basham",
+    "Club": "Sheffield United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Jan Bednarek",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Aaron Cresswell",
+    "Club": "West Ham United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Joel Ward",
+    "Club": "Crystal Palace",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Chris Basham",
+    "Club": "Sheffield United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Jan Bednarek",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Aaron Cresswell",
+    "Club": "West Ham United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Joel Ward",
+    "Club": "Crystal Palace",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Chris Basham",
+    "Club": "Sheffield United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Jan Bednarek",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Aaron Cresswell",
+    "Club": "West Ham United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Joel Ward",
+    "Club": "Crystal Palace",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Chris Basham",
+    "Club": "Sheffield United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Jan Bednarek",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Aaron Cresswell",
+    "Club": "West Ham United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Joel Ward",
+    "Club": "Crystal Palace",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Chris Basham",
+    "Club": "Sheffield United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Jan Bednarek",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Aaron Cresswell",
+    "Club": "West Ham United",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 42,
+    "Player": "Joel Ward",
+    "Club": "Crystal Palace",
+    "Nationality": "England",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 1,
+    "Player": "Pierre-Emile Højbjerg",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 1,
+    "Player": "Wes Morgan",
+    "Club": "-",
+    "Nationality": "Jamaica",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Frank Anguissa",
+    "Club": "-",
+    "Nationality": "Cameroon",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Eric Bailly",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Willy-Arnaud Boly",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Robert Brady",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Étienne Capoue",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Richarlison",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Troy Deeney",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Fabian Delph",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Lucas Digne",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Shane Duffy",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Lewis Dunk",
+    "Club": "Brighton & Hove Albion",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Juan Foyth",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Isaac Hayden",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Jordan Henderson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Jonathan Hogg",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "José Holebas",
+    "Club": "-",
+    "Nationality": "Greece",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Phil Jagielka",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Christian Kabasele",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Anthony Knockaert",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "James Maddison",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Harry Maguire",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Ainsley Maitland-Niles",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Nemanja Matic",
+    "Club": "-",
+    "Nationality": "Serbia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Kevin McDonald",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "James Milner",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Steve Mounié",
+    "Club": "-",
+    "Nationality": "Benin",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Mark Noble",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Joe Ralls",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Marcus Rashford",
+    "Club": "Manchester United",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Christopher Schindler",
+    "Club": "-",
+    "Nationality": "Germany",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Tommy Smith",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Adam Smith",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Son Heung-Min",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "South Korea",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Dale Stephens",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Lucas Torreira",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Yan Valery",
+    "Club": "-",
+    "Nationality": "Tunisia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Jan Vertonghen",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Aaron Wan-Bissaka",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "DeAndre Yedlin",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Ashley Young",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Kurt Zouma",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Aaron Wan-Bissaka",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "DeAndre Yedlin",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Ashley Young",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Kurt Zouma",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Aaron Wan-Bissaka",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "DeAndre Yedlin",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Ashley Young",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Kurt Zouma",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Aaron Wan-Bissaka",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "DeAndre Yedlin",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Ashley Young",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Kurt Zouma",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Aaron Wan-Bissaka",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "DeAndre Yedlin",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Ashley Young",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Kurt Zouma",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Aaron Wan-Bissaka",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "DeAndre Yedlin",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Ashley Young",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Wilfried Zaha",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Kurt Zouma",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 1,
+    "Player": "Wilfred Ndidi",
+    "Club": "-",
+    "Nationality": "Nigeria",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 1,
+    "Player": "Jonjo Shelvey",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Charlie Adam",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Marc Albrighton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Daniel Amartey",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Marko Arnautovic",
+    "Club": "-",
+    "Nationality": "Austria",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Sèrge Aurier",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Jordan Ayew",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Tiémoué Bakayoko",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Miguel Britos",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Gary Cahill",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Andy Carroll",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Ben Chilwell",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Tom Cleverley",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Troy Deeney",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Mohamed Elneny",
+    "Club": "-",
+    "Nationality": "Egypt",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Cesc Fàbregas",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Simon Francis",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Idrissa Gueye",
+    "Club": "-",
+    "Nationality": "Senegal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Jonathan Hogg",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Anthony Knockaert",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Sadio Mané",
+    "Club": "-",
+    "Nationality": "Senegal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Konstantinos Mavropanos",
+    "Club": "Arsenal",
+    "Nationality": "Greece",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "David Luiz",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Paul Pogba",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Davy Pröpper",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Hal Robson-Kanu",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Davinson Sánchez",
+    "Club": "-",
+    "Nationality": "Colombia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Christopher Schindler",
+    "Club": "-",
+    "Nationality": "Germany",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Morgan Schneiderlin",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Jack Stephens",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Raheem Sterling",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Rajiv van La Parra",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Maya Yoshida",
+    "Club": "-",
+    "Nationality": "Japan",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Marvin Zeegelaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Jack Stephens",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Raheem Sterling",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Rajiv van La Parra",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Maya Yoshida",
+    "Club": "-",
+    "Nationality": "Japan",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Marvin Zeegelaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Jack Stephens",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Raheem Sterling",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Rajiv van La Parra",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Maya Yoshida",
+    "Club": "-",
+    "Nationality": "Japan",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Marvin Zeegelaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Jack Stephens",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Raheem Sterling",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Rajiv van La Parra",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Maya Yoshida",
+    "Club": "-",
+    "Nationality": "Japan",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Marvin Zeegelaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Jack Stephens",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Raheem Sterling",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Rajiv van La Parra",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Maya Yoshida",
+    "Club": "-",
+    "Nationality": "Japan",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Marvin Zeegelaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Jack Stephens",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Raheem Sterling",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Rajiv van La Parra",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Maya Yoshida",
+    "Club": "-",
+    "Nationality": "Japan",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Marvin Zeegelaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Jack Stephens",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Raheem Sterling",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Rajiv van La Parra",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Kyle Walker",
+    "Club": "Manchester City",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Maya Yoshida",
+    "Club": "-",
+    "Nationality": "Japan",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 3,
+    "Player": "Marvin Zeegelaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 1,
+    "Player": "Miguel Britos",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 1,
+    "Player": "Fernandinho",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 1,
+    "Player": "Granit Xhaka",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Nolito",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Sergio Agüero",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Michail Antonio",
+    "Club": "West Ham United",
+    "Nationality": "Jamaica",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Marko Arnautovic",
+    "Club": "-",
+    "Nationality": "Austria",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Harry Arter",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Phil Bardsley",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ashley Barnes",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Sam Byram",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Sam Clucas",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Aaron Cresswell",
+    "Club": "West Ham United",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Papy Djilobodji",
+    "Club": "-",
+    "Nationality": "Senegal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ahmed El Mohamady",
+    "Club": "-",
+    "Nationality": "Egypt",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Sofiane Feghouli",
+    "Club": "-",
+    "Nationality": "Algeria",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Marouane Fellaini",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Simon Francis",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Jeff Hendrick",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ander Herrera",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Tom Huddlestone",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Phil Jagielka",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Adnan Januzaj",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Laurent Koscielny",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Sebastian Larsson",
+    "Club": "-",
+    "Nationality": "Sweden",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Jake Livermore",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Oumar Niasse",
+    "Club": "-",
+    "Nationality": "Senegal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Roberto Pereyra",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Steven Pienaar",
+    "Club": "-",
+    "Nationality": "South Africa",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Sebastian Prödl",
+    "Club": "-",
+    "Nationality": "Austria",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Gastón Ramírez",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Nathan Redmond",
+    "Club": "Southampton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Winston Reid",
+    "Club": "-",
+    "Nationality": "New Zealand",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Andrew Surman",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Virgil van Dijk",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ben Watson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Gastón Ramírez",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Nathan Redmond",
+    "Club": "Southampton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Winston Reid",
+    "Club": "-",
+    "Nationality": "New Zealand",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Andrew Surman",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Virgil van Dijk",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ben Watson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Gastón Ramírez",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Nathan Redmond",
+    "Club": "Southampton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Winston Reid",
+    "Club": "-",
+    "Nationality": "New Zealand",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Andrew Surman",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Virgil van Dijk",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ben Watson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Gastón Ramírez",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Nathan Redmond",
+    "Club": "Southampton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Winston Reid",
+    "Club": "-",
+    "Nationality": "New Zealand",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Andrew Surman",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Virgil van Dijk",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ben Watson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Gastón Ramírez",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Nathan Redmond",
+    "Club": "Southampton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Winston Reid",
+    "Club": "-",
+    "Nationality": "New Zealand",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Andrew Surman",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Virgil van Dijk",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ben Watson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Gastón Ramírez",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Nathan Redmond",
+    "Club": "Southampton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Winston Reid",
+    "Club": "-",
+    "Nationality": "New Zealand",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Andrew Surman",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Virgil van Dijk",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ben Watson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Gastón Ramírez",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Nathan Redmond",
+    "Club": "Southampton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Winston Reid",
+    "Club": "-",
+    "Nationality": "New Zealand",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Andrew Surman",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Virgil van Dijk",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ben Watson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 4,
+    "Player": "Ashley Williams",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 1,
+    "Player": "Victor Wanyama",
+    "Club": "-",
+    "Nationality": "Kenya",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 2,
+    "Player": "Thibaut Courtois",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 2,
+    "Player": "Sadio Mané",
+    "Club": "-",
+    "Nationality": "Senegal",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 2,
+    "Player": "Kevin Mirallas",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 2,
+    "Player": "Aleksandar Mitrovic",
+    "Club": "-",
+    "Nationality": "Serbia",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 2,
+    "Player": "John Terry",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Charlie Adam",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Ibrahim Afellay",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Nathan Aké",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Nordin Amrabat",
+    "Club": "-",
+    "Nationality": "Morocco",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Jordan Ayew",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Gareth Barry",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Valon Behrami",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Geoff Cameron",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Santi Cazorla",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Aly Cissokho",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "James Collins",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Fabricio Coloccini",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Francis Coquelin",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Philippe Coutinho",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "José Fonte",
+    "Club": "-",
+    "Nationality": "Portugal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Gabriel Paulista",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Danny Drinkwater",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Simon Francis",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Ramiro Funes Mori",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Dwight Gayle",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Alan Hutton",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Daryl Janmaat",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Carl Jenkinson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Younes Kaboul",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Cheikhou Kouyaté",
+    "Club": "-",
+    "Nationality": "Senegal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Jamaal Lascelles",
+    "Club": "Newcastle United",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Jeremain Lens",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Russell Martin",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Juan Mata",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Nemanja Matic",
+    "Club": "-",
+    "Nationality": "Serbia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Gareth McAuley",
+    "Club": "-",
+    "Nationality": "Northern Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "James McCarthy",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "James McClean",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Per Mertesacker",
+    "Club": "-",
+    "Nationality": "Germany",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "James Milner",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Kyle Naughton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Mark Noble",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Gary O'Neil",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Salomón Rondón",
+    "Club": "-",
+    "Nationality": "Venezuela",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Ryan Shawcross",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Danny Simpson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Brad Smith",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Pape Souaré",
+    "Club": "-",
+    "Nationality": "Senegal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Steven Whittaker",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Steven Whittaker",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Steven Whittaker",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Steven Whittaker",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Jamie Vardy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 7,
+    "Player": "Steven Whittaker",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Tom Huddlestone",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Paul Konchesky",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Kyle Naughton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Moussa Sissoko",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Mike Williamson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Gabriel Agbonlahor",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Antolín Alcáraz",
+    "Club": "-",
+    "Nationality": "Paraguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Charlie Austin",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "César Azpilicueta",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Ashley Barnes",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Gareth Barry",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Joey Barton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Christian Benteke",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Ryan Bertrand",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Tyler Blackett",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Wilfried Bony",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Fabio Borini",
+    "Club": "-",
+    "Nationality": "Italy",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Liam Bridcutt",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Wes Brown",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Emre Can",
+    "Club": "-",
+    "Nationality": "Germany",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Calum Chambers",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "James Chester",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Vlad Chiriches",
+    "Club": "-",
+    "Nationality": "Romania",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Ciaran Clark",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "James Collins",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Fabricio Coloccini",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Damien Delaney",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Fabian Delph",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Michael Duff",
+    "Club": "-",
+    "Nationality": "Northern Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Lukasz Fabianski",
+    "Club": "Swansea City",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Cesc Fàbregas",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Federico Fazio",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Marouane Fellaini",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Steven Gerrard",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Olivier Giroud",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Branislav Ivanovic",
+    "Club": "-",
+    "Nationality": "Serbia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Matty James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Daryl Janmaat",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Mile Jedinak",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Eliaquim Mangala",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Nemanja Matic",
+    "Club": "-",
+    "Nationality": "Serbia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Gareth McAuley",
+    "Club": "-",
+    "Nationality": "Northern Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "David Meyler",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Wes Morgan",
+    "Club": "-",
+    "Nationality": "Jamaica",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Youssouf Mulumbu",
+    "Club": "-",
+    "Nationality": "DR Congo",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Glenn Murray",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Nedum Onuoha",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Jason Puncheon",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Stephen Quinn",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Gastón Ramírez",
+    "Club": "-",
+    "Nationality": "Uruguay",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Angel Rangel",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Kieran Richardson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Wayne Rooney",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Wayne Routledge",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Carlos Sánchez",
+    "Club": "-",
+    "Nationality": "Colombia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Morgan Schneiderlin",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Luke Shaw",
+    "Club": "Manchester United",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Jonjo Shelvey",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Chris Smalling",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Steven Taylor",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Ron Vlaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "James Ward-Prowse",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Claudio Yacob",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Pablo Zabaleta",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Steven Taylor",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Ron Vlaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "James Ward-Prowse",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Claudio Yacob",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Pablo Zabaleta",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Steven Taylor",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Ron Vlaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "James Ward-Prowse",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Claudio Yacob",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Pablo Zabaleta",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Steven Taylor",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Ron Vlaar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "James Ward-Prowse",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Claudio Yacob",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 6,
+    "Player": "Pablo Zabaleta",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 1,
+    "Player": "Wes Brown",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 2,
+    "Player": "Chico Flores",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 2,
+    "Player": "Younes Kaboul",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 2,
+    "Player": "Kevin Nolan",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 2,
+    "Player": "Nemanja Vidic",
+    "Club": "-",
+    "Nationality": "Serbia",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Marcos Alonso",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Shola Ameobi",
+    "Club": "-",
+    "Nationality": "Nigeria",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Fernando Amorebieta",
+    "Club": "-",
+    "Nationality": "Venezuela",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mikel Arteta",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Paulinho",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Yannick Bolasie",
+    "Club": "-",
+    "Nationality": "DR Congo",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Willian",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Andy Carroll",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Lee Cattermole",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mathieu Debuchy",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Kagisho Dikgacoi",
+    "Club": "-",
+    "Nationality": "South Africa",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Andrea Dossena",
+    "Club": "-",
+    "Nationality": "Italy",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Paul Dummett",
+    "Club": "Newcastle United",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Leroy Fer",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mathieu Flamini",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Kieran Gibbs",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Jordan Henderson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Tim Howard",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Tom Huddlestone",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Bradley Johnson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Vincent Kompany",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Laurent Koscielny",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mark Noble",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Steven Nzonzi",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "John O'Shea",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Loïc Rémy",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Danny Rose",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Yannick Sagbo",
+    "Club": "-",
+    "Nationality": "Cote D’Ivoire",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Ramires",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Ryan Shawcross",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Steven Taylor",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "James Tomkins",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Fernando Torres",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Juan Cala",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Antonio Valencia",
+    "Club": "-",
+    "Nationality": "Ecuador",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Michel Vorm",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Jonathan Walters",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Glenn Whelan",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mapou Yanga-Mbiwa",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Antonio Valencia",
+    "Club": "-",
+    "Nationality": "Ecuador",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Michel Vorm",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Jonathan Walters",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Glenn Whelan",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mapou Yanga-Mbiwa",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Antonio Valencia",
+    "Club": "-",
+    "Nationality": "Ecuador",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Michel Vorm",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Jonathan Walters",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Glenn Whelan",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mapou Yanga-Mbiwa",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Antonio Valencia",
+    "Club": "-",
+    "Nationality": "Ecuador",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Michel Vorm",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Jonathan Walters",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Glenn Whelan",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mapou Yanga-Mbiwa",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Antonio Valencia",
+    "Club": "-",
+    "Nationality": "Ecuador",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Michel Vorm",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Jonathan Walters",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Glenn Whelan",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mapou Yanga-Mbiwa",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Antonio Valencia",
+    "Club": "-",
+    "Nationality": "Ecuador",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Michel Vorm",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Jonathan Walters",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Glenn Whelan",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Marc Wilson",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 7,
+    "Player": "Mapou Yanga-Mbiwa",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  }
+]
